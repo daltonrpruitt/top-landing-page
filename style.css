@@ -37,6 +37,7 @@ body {
 .announcement {
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 130px;
 
 }
